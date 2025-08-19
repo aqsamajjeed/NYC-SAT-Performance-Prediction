@@ -124,6 +124,5 @@ This project is licensed under the MIT License – free to use and adapt.
 
 ---
 
-## 💡 GitHub Repo Description (One-liner)  
-`EDA + Machine Learning model on NYC school SAT performance data — includes insights on top schools, borough comparisons, participation rate impact, and a baseline prediction model.`  
+ 
 
