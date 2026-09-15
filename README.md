@@ -1,6 +1,6 @@
 # NYC Public Schools SAT Performance & Participation Prediction
 
-## 📌 Project Overview  
+##  Project Overview  
 This project analyzes and models **New York City public school SAT performance** to uncover meaningful insights and predict **high student test participation** (≥ 80%).  
 It integrates **exploratory data analysis (EDA)** with a **baseline machine learning model** to provide both **descriptive analytics** and **predictive capabilities**.  
 
@@ -10,7 +10,7 @@ The work is divided into two main parts:
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Identify **top-performing schools** in NYC based on SAT scores.  
 - Compare **borough-wise performance** across math, reading, and writing.  
 - Measure **correlations** between different SAT subject scores.  
@@ -20,7 +20,7 @@ The work is divided into two main parts:
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 
 **File**: `schools.csv`  
 **Columns**:  
@@ -34,7 +34,7 @@ The work is divided into two main parts:
 
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 
 ### **1. Top Math Performers**
 - Schools with average math scores above **640** were filtered.  
@@ -72,7 +72,7 @@ The work is divided into two main parts:
 
 ---
 
-## 🤖 Machine Learning Model  
+##  Machine Learning Model  
 
 **Model**: Logistic Regression (Baseline)  
 **Target**: `high_participation` (1 = ≥80%, 0 = <80%)  
@@ -94,7 +94,7 @@ The work is divided into two main parts:
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Python**: pandas, numpy, matplotlib, seaborn  
 - **Scikit-learn**: Logistic Regression, preprocessing, metrics  
@@ -102,7 +102,7 @@ The work is divided into two main parts:
 
 ---
 
-## 📈 Visualizations  
+##  Visualizations  
 
 - **Bar Charts** – Top-performing schools, borough averages  
 - **Heatmap** – Correlation between SAT subjects  
@@ -111,7 +111,7 @@ The work is divided into two main parts:
 
 ---
 
-## 🚀 Next Steps  
+##  Next Steps  
 
 - Address **class imbalance** with SMOTE or oversampling.  
 - Explore **tree-based models** (Random Forest, XGBoost) for improved recall.  
@@ -119,7 +119,7 @@ The work is divided into two main parts:
 
 ---
 
-## 📜 License  
+##  License  
 This project is licensed under the MIT License – free to use and adapt.  
 
 ---
